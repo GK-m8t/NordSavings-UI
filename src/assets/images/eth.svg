@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_14584" data-name="Rectangle 14584" width="50" height="50" transform="translate(-10182 18425)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_27" data-name="Mask Group 27" transform="translate(10182 -18425)" clip-path="url(#clip-path)">
+    <g id="Group_3455" data-name="Group 3455" transform="translate(-13209.405 20522.818)">
+      <path id="Path_3442" data-name="Path 3442" d="M3052.367-2097.818l-15.273,25.43,15.313,9.055,15.313-9.055Z" fill="#8996a6"/>
+      <path id="Intersection_1" data-name="Intersection 1" d="M15.273,0l.039.064V17.832L0,25.43Z" transform="translate(3037.091 -2097.817)" fill="#fff"/>
+      <path id="Intersection_2" data-name="Intersection 2" d="M0,7.6,15.313,0s.033,14.313.008,16.647h-.008Z" transform="translate(3037.096 -2079.985)" fill="#bdcada"/>
+      <path id="Intersection_3" data-name="Intersection 3" d="M0,17.768V0L15.269,25.293Z" transform="translate(3052.404 -2097.751)" fill="#6585b6"/>
+      <path id="Path_3449" data-name="Path 3449" d="M3037.092-1895.714l15.236,9.054,15.313-9.054-15.313,21.729Z" transform="translate(0 -173.834)" fill="#597db4"/>
+      <path id="Intersection_4" data-name="Intersection 4" d="M0,0,15.247,12.174v9.471l-.04.055Z" transform="translate(3037.111 -2069.523)" fill="#bdcada"/>
+      <path id="Intersection_5" data-name="Intersection 5" d="M0,12.032,15.1,0,0,21.423Z" transform="translate(3052.365 -2069.302)" fill="#8996a6"/>
+      <path id="Intersection_6" data-name="Intersection 6" d="M0,9.031,15.273,0l-.19.27L0,12.321Z" transform="translate(3052.365 -2069.551)" fill="#6287c1"/>
+    </g>
+  </g>
+</svg>

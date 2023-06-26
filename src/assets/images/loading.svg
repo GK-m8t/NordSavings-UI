@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="50" viewBox="0 0 100 50">
+  <style>
+  .cubes .sk-cube {
+   background-color: #333;
+   animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
+  }
+  .cubes .sk-cube4 {
+   animation-delay: 0.1s;
+  }
+  @keyframes sk-cubeGridScaleDelay {
+   0%,
+   70%,
+   100% {
+    transform: scale3D(1, 1, 1);
+   }
+   35% {
+    transform: scale3D(0, 0, 1);
+   }
+  }
+  </style>
+  <g id="Group_3413" data-name="Group 3413" transform="translate(-965 -303)">
+    <circle id="Ellipse_9 " class="cubes sk-cube sk-cube4" data-name="Ellipse 9" cx="15" cy="15" r="15" transform="translate(980 313)" fill="#00dd9a">
+      <animate id="circleAnim1" attributeName="r" from="15" to="5" begin="0s;circleAnim2.end" dur="1s" />
+      <animate id="circleAnim2" attributeName="r" from="5" to="15" begin="circleAnim1.end" dur="1s" />
+      
+    </circle>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="25" cy="25" r="10" transform="translate(1015 303)" fill="#172683">
+      <animate id="circle2Anim1" attributeName="r" from="10" to="25" begin="0s;circle2Anim2.end" dur="1s" />
+      <animate id="circle2Anim2" attributeName="r" from="25" to="10" begin="circle2Anim1.end" dur="1s" />
+      
+    </circle>
+  </g>
+</svg>
